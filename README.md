@@ -1,5 +1,5 @@
 # Trabalho Prático da Disciplina de Fundamentos e Avaliação de Redes de Computadores - 2026/2
- ** Professor: Dr. Leonardo Bidese de Pinho **
+ **Professor: Dr. Leonardo Bidese de Pinho**
 
 O objetivo geral deste trabalho prático é capacitar a compreensão dos principais conceitos e elementos de redes de computadores modernas através de práticas de programação e avaliação experimental[cite: 1]. O projeto abrange o desenvolvimento de um servidor HTTP com Qualidade de Serviço (QoS) em ambiente Linux, utilizando a Linguagem C e a biblioteca Pthreads, aliado à avaliação de desempenho em diferentes cenários de rede com o uso de ferramentas de análise de pacotes e medição de vazão.
 
